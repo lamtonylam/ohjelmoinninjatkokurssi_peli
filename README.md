@@ -1,0 +1,2 @@
+# ohjelmoinninjatkokurssi_peli
+Ohjelmoinnin jatkokurssin minipeli
